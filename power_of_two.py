@@ -1,4 +1,4 @@
-n = int(input("n:"))
+n = int(input())
 if n <= 0:
     print(False)
 else:
