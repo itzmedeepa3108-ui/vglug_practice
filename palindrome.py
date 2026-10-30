@@ -1,4 +1,4 @@
-x = int(input("Enter a number: "))
+x = int(input())
 original = x
 reversed_num = 0
 if x < 0:
